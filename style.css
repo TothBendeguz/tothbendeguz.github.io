@@ -152,6 +152,17 @@ p{
 
 .ferenc{
     width: 20%;
+    border: darkgrey solid 5px;
+    margin-left: 600px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.bernabeub{
+    width: 30%;
+    border: blue solid 5px;
+    margin-top: 15px;
+    border-radius: 10px;
 }
 
 .cimerp{
@@ -175,4 +186,19 @@ p{
     float: right;
     width: 15%;
     margin-left: 10px;
+}
+
+.clasico{
+    color: #FFF;
+    margin: 1em 0;
+    border: bisque solid 5px;
+    border-collapse: collapse;
+}
+
+table{
+    display: table;
+    border-collapse: separate;
+    box-sizing: initial;
+    border-spacing: 2px;
+    border-color: grey;
 }
